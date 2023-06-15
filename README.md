@@ -1,4 +1,3 @@
 # BluetoothPermission
-BluetoothPermission
 
-Kullanıcıdan bluetooth izni alıyoruz. Reddederse eğer uygulama içinde butona tıkladığında ayarlara yönlendirip bluetooth'u açmasını sağlıyoruz.
+We get bluetooth permission from the user. If it refuses, when the button is clicked in the application, we direct it to the settings and enable it to turn on the bluetooth.
